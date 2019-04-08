@@ -1,7 +1,7 @@
 # testing-123/my_script.py
 
 def enlarge(i):
-    return i * 100
+    return i * 100000
 
 print(__name__)
 print(__file__)
